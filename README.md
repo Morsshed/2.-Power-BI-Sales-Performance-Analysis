@@ -31,7 +31,8 @@ The primary business problems addressed in this project include:
 This project provides a structured analytical approach to uncover these issues and enables the business to make informed decisions regarding pricing, product strategy, customer engagement, and market expansion.
 
  ## ii. Snapshots
- ![Snapshot of Sales Analytics Dashboard](https://github.com/Morsshed/1.-Power-BI-E-Commerce-Sales-Analysis/blob/main/Snapshot%20of%20Sales%20Analytics%20Dashboard.jpeg?raw=true)
+![Pizza Sales Performance Analysis](https://github.com/Morsshed/2.-Power-BI-Sales-Performance-Analysis/blob/main/Pizza%20Sales%20Performance%20Analysis.jpeg?raw=true)
+
 
  ## iii. Dashboard Features
 
