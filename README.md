@@ -147,20 +147,20 @@ Fields like pizza_size, pizza_type, pizza_ingredients, and pizza_name describe p
 
 ### Cleaning & Standardization
 
-Standardized date/time formats from order_date and order_time.
+✔️ Standardized date/time formats from order_date and order_time.
 
-Verified price accuracy by ensuring total_price = unit_price × quantity.
+✔️ Verified price accuracy by ensuring total_price = unit_price × quantity.
 
-Normalized pizza sizes and types for consistency across the dataset.
+✔️ Normalized pizza sizes and types for consistency across the dataset.
 
-Checked uniqueness and integrity of identifier fields.
+✔️ Checked uniqueness and integrity of identifier fields.
 
 ### Feature Engineering for Analysis
 
-Derived new time-based fields (Day, Month, Hour) for trend analysis.
+✔️ Derived new time-based fields (Day, Month, Hour) for trend analysis.
 
-Aggregated metrics like total revenue, total pizzas sold, and pizzas per order.
+✔️ Aggregated metrics like total revenue, total pizzas sold, and pizzas per order.
 
-Grouped data by pizza size and category using pizza_type and pizza_size.
+✔️ Grouped data by pizza size and category using pizza_type and pizza_size.
 
-Prepared fields needed for dashboard visuals (best sellers, order trends, category performance).
+✔️ Prepared fields needed for dashboard visuals (best sellers, order trends, category performance).
