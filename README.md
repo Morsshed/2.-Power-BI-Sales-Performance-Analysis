@@ -37,19 +37,16 @@ This project provides a structured analytical approach to uncover these issues a
  ## iii. Dashboard Features
 
                              Dynamic Features:
-                                              1. Tooltips : Matrix in Line Chart
-                                              2. Drill Through : Table Chart with Gauge Charts
-                                              3. Drill Down : Stacked Bar Charts
-                                              4. Filed Parameter :                   
+                                              1. Slicers : Pizza Category/Name/Size
+                                              2. Button : Pizza Sales Part 1&2
+                                              3. Nevigators : Pizza Sales Part 1                  
                              Analytical Features:
-                                              1. KPI Cards : Total Orders, Total Revenue, Net Profit, Profit Margin and Rate of Return
-                                              2. Stacked Bard Chart: Number of Orders by Category and Sub Category
-                                              3. Line Charts : Trend and Forecasting, Net Profit Vs Adjusted Profit
-                                              4. Table chart : Top 10 Products by Profit, Sales by Continents/Country/Regions
-                                              5. Gauge Charts : Tagrgets VS Profit/Order/Revenue
-                                              6. Map : Country by Total Revenue
-                                              7. Pie Charts : Customers' Demographic Analyses
-                                              8. Matrix : Customer Segmentation
+                                              1. KPI Cards : Total Orders, Total Revenue, Total Orders, Total Pizza Sold, AVG Order Value, AVG Pizzas Per Order
+                                              2. Column Chart : Daily Trends of Orders,
+                                              3. Line Chart : Monthly Trends of Orders
+                                              4. Funnel Chart : Total Pizzas Sold by Pizza Category
+                                              7. Pie Charts : % of Sales by Pizza Category, % of Sales by Pizza Size
+                                              8. Bar Charts : Top & Bottom 5 Pizzas by Total Revenue/Total Quantity/Total Order
                                               
  ## iv. Insights and Recommendation
 
