@@ -164,3 +164,20 @@ Fields like pizza_size, pizza_type, pizza_ingredients, and pizza_name describe p
 ✔️ Grouped data by pizza size and category using pizza_type and pizza_size.
 
 ✔️ Prepared fields needed for dashboard visuals (best sellers, order trends, category performance).
+
+# B - DAX (Data Analysis Expression)
+   ### KPI Measures
+                    Average Order value = sum(pizza_sales[total_price])/DISTINCTCOUNT(pizza_sales[order_id]) 
+                    Average Pizzas Per Order = sum(pizza_sales[quantity])/DISTINCTCOUNT(pizza_sales[order_id])
+                    Total Orders = DISTINCTCOUNT(pizza_sales[order_id])
+                    Total Pizzas Sold = sum(pizza_sales[quantity])
+                    Total Revenue = sum(pizza_sales[total_price])
+   ### Calculated Columns
+                    Month = left(pizza_sales[Month Name],3)
+                    Order Day = left(pizza_sales[Day Name],3)
+
+ # C - 
+
+ # D - Conclusion
+ The Pizza Sales Performance dashboard provides a data-driven foundation for operational, marketing, and menu decisions. By acting on the insights and recommendations, the business can significantly enhance revenue, reduce inefficiencies, and deliver a more customer-centric product offering. This project demonstrates how analytics can turn raw data into actionable business strategy.
+                    
