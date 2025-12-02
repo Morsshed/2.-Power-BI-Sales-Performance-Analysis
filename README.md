@@ -135,24 +135,32 @@ The E-Commerce Sales Analytics Dashboard aims to address several key business ch
  [Pizza Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
 
 # A - Analysis Techniques:
-# A1 - Data Preparation (ETL & Normalization)
+## A1 -🍕 Data Preparation
 
-### Data Cleaning
+### Understanding the Dataset Structure
 
-✓ Removed duplicate rows and unnecessary fields to streamline the dataset.
+The dataset contains 12 key features covering orders, pricing, pizza details, and timestamps.
 
-✓ Standardized column names, formats, and units for consistency across all tables.
+order_id, order_details_id, and pizza_id uniquely identify orders and items.
 
-✓ Converted text-based date fields into proper Date formats to support time-intelligence calculations.
+Fields like pizza_size, pizza_type, pizza_ingredients, and pizza_name describe product attributes.
 
-✓ Handled missing values using appropriate strategies (imputation or exclusion).
+### Cleaning & Standardization
 
-### Data Transformation
+Standardized date/time formats from order_date and order_time.
 
-✓ Created new calculated columns such as Order Line Item, Retail Price, and Return Quantity to enrich analytical capabilities.
+Verified price accuracy by ensuring total_price = unit_price × quantity.
 
-✓ Split and transformed fields where necessary to improve clarity and usability.
+Normalized pizza sizes and types for consistency across the dataset.
 
-✓ Reassigned data types (Whole Number, Decimal, Text, Date) to ensure accurate aggregations and relationships.
+Checked uniqueness and integrity of identifier fields.
 
-✓ Applied conditional transformations to derive customer segments, product groupings, and territory regions.
+### Feature Engineering for Analysis
+
+Derived new time-based fields (Day, Month, Hour) for trend analysis.
+
+Aggregated metrics like total revenue, total pizzas sold, and pizzas per order.
+
+Grouped data by pizza size and category using pizza_type and pizza_size.
+
+Prepared fields needed for dashboard visuals (best sellers, order trends, category performance).
