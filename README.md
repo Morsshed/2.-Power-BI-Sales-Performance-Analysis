@@ -180,7 +180,7 @@ Fields like pizza_size, pizza_type, pizza_ingredients, and pizza_name describe p
 
  ## Daily and Monthly Trend Analysis
 
- [Pizza Sales Performance Dashboard](https://github.com/Morsshed/2.-Power-BI-Sales-Performance-Analysis/blob/main/Pizza%20Sales%20Performance%20Analysis%201.png?raw=true)
+![Pizza Sales Performance Dashboard](https://github.com/Morsshed/2.-Power-BI-Sales-Performance-Analysis/blob/main/Pizza%20Sales%20Performance%20Analysis%201.png?raw=true)
 
  ## Performance Analysis
 
