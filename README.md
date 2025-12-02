@@ -98,54 +98,37 @@ This project provides a structured analytical approach to uncover these issues a
 
        ✓ Thai Chicken Pizza generates the highest revenue among individual pizzas.
 
-Thai Barbeque Carre Pizza has the lowest revenue.
+       ✓ Thai Barbeque Carre Pizza has the lowest revenue.
 
-Classic Deluxe Pizza sells the highest quantity.
+       ✓ Classic Deluxe Pizza sells the highest quantity.
 
-Mediterranean Pizza records the lowest quantity sold.
+       ✓ Mediterranean Pizza records the lowest quantity sold.
 
-Classic Deluxe Pizza also leads in total orders.
+       ✓ Classic Deluxe Pizza also leads in total orders.
 
-Specialty pizzas like Green, Spinach, and Mediterranean consistently appear in the bottom lists.
+       ✓ Specialty pizzas like Green, Spinach, and Mediterranean consistently appear in the bottom lists.
 
-Category Breakdown (2015 Panel)
+  #### Category Breakdown
 
-Top-revenue pizzas are dominated by Chicken and Barbecue varieties.
+       ✓ Top-revenue pizzas are dominated by Chicken and Barbecue varieties.
 
-Bottom-quantity pizzas include niche flavors with limited customer adoption.
+       ✓ Bottom-quantity pizzas include niche flavors with limited customer adoption.
 
-📈 Recommendations
-1. Strengthen Midweek Promotions
+## 📈 Recommendations
+       1. Strengthen Midweek Promotions. They can introduce targeted offers on Tuesdays and Wednesdays to lift low-performing days (discounts, bundles, loyalty boosts).
 
-Introduce targeted offers on Tuesdays and Wednesdays to lift low-performing days (discounts, bundles, loyalty boosts).
+       2. Expand Top-Performing Categories. It is recommended to develop new variations of Classic and Supreme pizzas, as these generate the highest revenue and demand.
 
-2. Expand Top-Performing Categories
+       3. Reevaluate Low-Demand Items. They should reformulate, rebrand, or remove consistently low-performing pizzas such as Mediterranean, Green, and Spinach variants.
 
-Develop new variations of Classic and Supreme pizzas, as these generate the highest revenue and demand.
+       4. Promote Large and Medium Size Combos. Since these sizes dominate sales, introduce value deals like family combos or size-based promotions.
 
-3. Reevaluate Low-Demand Items
+       5. Apply Seasonal Strategies. For Example, use targeted campaigns such as i) Summer deals to reinforce July spikes ii) Fall specials to improve October performance.
 
-Reformulate, rebrand, or remove consistently low-performing pizzas such as Mediterranean, Green, and Spinach variants.
+       6. Highlight Best Sellers. Feature top items (Classic Deluxe, Thai Chicken Pizza) prominently in menus, apps, and ordering platforms.
 
-4. Promote Large and Medium Size Combos
-
-Since these sizes dominate sales, introduce value deals like family combos or size-based promotions.
-
-5. Apply Seasonal Strategies
-
-Use targeted campaigns:
-
-Summer deals to reinforce July spikes
-
-Fall specials to improve October performance
-
-6. Highlight Best Sellers
-
-Feature top items (Classic Deluxe, Thai Chicken Pizza) prominently in menus, apps, and ordering platforms.
-
-7. Align Inventory With Demand
-
-Increase stock for high-demand ingredients (Classic & Supreme), while reducing overstock of low-selling specialty ingredients.
+       7. Align Inventory With Demand. It is better to increase stock for high-demand ingredients (Classic & Supreme), while reducing overstock of low-selling specialty ingredients.
+   
  ## v. Data Source
  [Adventure Works Dataset (Kaggle)](https://www.kaggle.com/datasets/atulmittal199174/adventure-works-dataset)
 # A - Analysis Techniques:
