@@ -48,36 +48,104 @@ This project provides a structured analytical approach to uncover these issues a
                                               7. Pie Charts : % of Sales by Pizza Category, % of Sales by Pizza Size
                                               8. Bar Charts : Top & Bottom 5 Pizzas by Total Revenue/Total Quantity/Total Order
                                               
- ## iv. Insights and Recommendation
+ ## iv. 🔍 Insights and Recommendations
+ 
+  #### Overall Performance
 
-                 Summary Insights
-                        1. The business has achieved 25K total orders within the selected period.
-                        2. Total revenue is 25M, showing strong overall sales performance.
-                        3. Net profit is 10M, resulting in an excellent 42% profit margin.
-                        4. The return rate is 2.2%, indicating efficient operations and product quality.
-                        5. The forecasting chart shows a clear upward trend, meaning revenue is expected to grow steadily.
-                        6. “Tires and Tubes” is the most ordered product sub-category.
-                        7. “Shorts” is the sub-category with the highest return rate.
-                        8. “Bib-Shorts” is the top-performing product in terms of revenue and net profit.
-                        9. The top 10 products by profit show that cycling gear dominates the highest revenue list.
-                       10. There are 18,148 total customers, and 17,416 have made purchases, giving a strong customer purchase rate.
-                       11. The average revenue per customer is approximately $1,430.
-                       12. Gender distribution is nearly balanced, with slightly more male customers.
-                       13. Most customers fall within the 25–34 age group, indicating a young target audience.
-                       14. The customer segmentation (RFM) shows a large portion in the “Potential Loyalists” and “Champions” categories.
-                       15. Revenue per customer has a declining trend at the start of the month but stabilizes later.
-                       16. Single customers represent the majority of buyers, which may influence product preferences.
-                       17. North America generates the highest total revenue and profit, with 42.5% profit margin.
-                       18. Europe, although significant in sales volume, shows slightly lower return rates compared to NA.
-                       19. Revenue is widely diversified across continents, reducing business risk.
-                       20. The United States leads all countries in both revenue and total orders, followed by the U.K. and Germany.
+       ✓ Total revenue reached $815,306, driven by consistent customer demand.
 
-                Recommendations for Business Growth
-                       1. Focus Marketing on High-Performing Segments. It is recommended to target promotions to “Champions” and “Potential Loyalists” to maximize repeat purchases.
-                       2. Improve Product Quality for High-Return Categories. It is necessary to investigate Shorts category (highest return rate) for sizing, material, or expectation mismatch issues.
-                       3. Expand Inventory & Promotions for High-Demand Products. The company can increase advertising and stock for Tires and Tubes, Bib-Shorts, and other top-profit items.
-                       4. Grow Underperforming Regions With High Potential. Europe and Asia-Pacific show significant order volume—launch region-specific campaigns and pricing adjustments.
-                       5. Enhance Customer Lifetime Value. The company can introduce loyalty programs for young customers (25–34 age group), who represent the highest engagement segment.
+       ✓ 21,350 orders were recorded, reflecting strong customer activity.
+
+       ✓ A total of 49,574 pizzas were sold.
+
+       ✓ Average order value = $38.19, showing purchases often include multiple items.
+
+       ✓ Average pizzas per order = 2.32, indicating bundling behavior.
+
+  #### Daily & Monthly Trends
+
+       ✓ Fridays and Saturdays generate the highest orders (weekend peaks).
+
+       ✓ Tuesdays and Wednesdays are the slowest sales days.
+
+       ✓ July records the highest monthly orders.
+
+       ✓ October shows the lowest activity.
+
+  #### Category Insights
+
+       ✓ Classic pizzas lead in both revenue and order volume.
+
+       ✓ Supreme pizzas follow closely, showing strong customer preference.
+
+       ✓ Chicken pizzas have the lowest order volume among all categories.
+
+       ✓ Classic category contributes 26.72% of category sales—the largest share.
+
+       ✓ Demand is concentrated mainly in Classic and Supreme, with Veggie and Chicken categories trailing.
+
+  #### Pizza Size Insights
+
+       ✓ Large pizzas are the most purchased size.
+
+       ✓ Medium pizzas also perform well.
+
+       ✓ X-Large pizzas attract a moderate share.
+
+       ✓ XX-Large pizzas have the least demand.
+
+  #### Best & Worst Sellers
+
+       ✓ Thai Chicken Pizza generates the highest revenue among individual pizzas.
+
+Thai Barbeque Carre Pizza has the lowest revenue.
+
+Classic Deluxe Pizza sells the highest quantity.
+
+Mediterranean Pizza records the lowest quantity sold.
+
+Classic Deluxe Pizza also leads in total orders.
+
+Specialty pizzas like Green, Spinach, and Mediterranean consistently appear in the bottom lists.
+
+Category Breakdown (2015 Panel)
+
+Top-revenue pizzas are dominated by Chicken and Barbecue varieties.
+
+Bottom-quantity pizzas include niche flavors with limited customer adoption.
+
+📈 Recommendations
+1. Strengthen Midweek Promotions
+
+Introduce targeted offers on Tuesdays and Wednesdays to lift low-performing days (discounts, bundles, loyalty boosts).
+
+2. Expand Top-Performing Categories
+
+Develop new variations of Classic and Supreme pizzas, as these generate the highest revenue and demand.
+
+3. Reevaluate Low-Demand Items
+
+Reformulate, rebrand, or remove consistently low-performing pizzas such as Mediterranean, Green, and Spinach variants.
+
+4. Promote Large and Medium Size Combos
+
+Since these sizes dominate sales, introduce value deals like family combos or size-based promotions.
+
+5. Apply Seasonal Strategies
+
+Use targeted campaigns:
+
+Summer deals to reinforce July spikes
+
+Fall specials to improve October performance
+
+6. Highlight Best Sellers
+
+Feature top items (Classic Deluxe, Thai Chicken Pizza) prominently in menus, apps, and ordering platforms.
+
+7. Align Inventory With Demand
+
+Increase stock for high-demand ingredients (Classic & Supreme), while reducing overstock of low-selling specialty ingredients.
  ## v. Data Source
  [Adventure Works Dataset (Kaggle)](https://www.kaggle.com/datasets/atulmittal199174/adventure-works-dataset)
 # A - Analysis Techniques:
