@@ -12,7 +12,7 @@ Yearly Sales Performance Analysis
 
 The pizza business shows strong overall sales, but key performance drivers remain unclear. The company lacks detailed insights into customer behavior, product performance, and demand patterns, making it difficult to optimize operations and maximize revenue.
 
-##### Key Issues
+##### Key Issues:
 
 ✔️ Uncertainty about which pizza categories, sizes, and individual items drive the most revenue.
 
@@ -26,7 +26,7 @@ The pizza business shows strong overall sales, but key performance drivers remai
 
 ✔️ Missed opportunities to create targeted promotions for low-performing periods.
 
-v Lack of data-driven decision-making to improve menu offerings and reduce waste.
+✔️ Lack of data-driven decision-making to improve menu offerings and reduce waste.
 
 The E-Commerce Sales Analytics Dashboard aims to address several key business challenges related to sales performance, customer behavior, product profitability, and regional growth. Despite generating strong revenue and profit, the organization faces gaps in customer retention, uneven regional performance, and product return issues that impact overall business efficiency. To support data-driven decision-making, the project focuses on identifying underlying issues and converting raw transactional data into meaningful insights.
 
