@@ -176,7 +176,8 @@ Fields like pizza_size, pizza_type, pizza_ingredients, and pizza_name describe p
                     Month = left(pizza_sales[Month Name],3)
                     Order Day = left(pizza_sales[Day Name],3)
 
- # C - 
+ # C - Analyses and Interactivities
+ 
 
  # D - Conclusion
  The Pizza Sales Performance dashboard provides a data-driven foundation for operational, marketing, and menu decisions. By acting on the insights and recommendations, the business can significantly enhance revenue, reduce inefficiencies, and deliver a more customer-centric product offering. This project demonstrates how analytics can turn raw data into actionable business strategy.
