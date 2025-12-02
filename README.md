@@ -3,7 +3,7 @@ Yearly Sales Performance Analysis
  
 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM1YTRjZjEtOGZhYy00OGE2LWE3ZGItZWU0MTc0MDFlN2YxIiwidCI6IjFhOTM4M2ZmLTVlMDEtNDkzYy04MTJmLTg0ODAzZTliMGI3YiJ9)
 
- ### 1. Domain: Delivery
+ ### 1. Domain: Food & Beverage 
 
 # Analysis Details
  ## i. Business Case
@@ -131,7 +131,9 @@ The E-Commerce Sales Analytics Dashboard aims to address several key business ch
        7. Align Inventory With Demand. It is better to increase stock for high-demand ingredients (Classic & Supreme), while reducing overstock of low-selling specialty ingredients.
    
  ## v. Data Source
- [Adventure Works Dataset (Kaggle)](https://www.kaggle.com/datasets/atulmittal199174/adventure-works-dataset)
+ 
+ [Pizza Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
+
 # A - Analysis Techniques:
 # A1 - Data Preparation (ETL & Normalization)
 
