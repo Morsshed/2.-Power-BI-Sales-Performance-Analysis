@@ -184,6 +184,9 @@ Fields like pizza_size, pizza_type, pizza_ingredients, and pizza_name describe p
 
  ## Performance Analysis
 
+ ![Pizza Sales Performance Dashboard 2](https://github.com/Morsshed/2.-Power-BI-Sales-Performance-Analysis/blob/main/Pizza%20Sales%20Performance%20Analysis%202.png?raw=true)
+
+
  # D - Conclusion
  The Pizza Sales Performance dashboard provides a data-driven foundation for operational, marketing, and menu decisions. By acting on the insights and recommendations, the business can significantly enhance revenue, reduce inefficiencies, and deliver a more customer-centric product offering. This project demonstrates how analytics can turn raw data into actionable business strategy.
                     
